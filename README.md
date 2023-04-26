@@ -1,6 +1,10 @@
-# Create T3 App
+# Twitter clone nextjs
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+
+## Live Site
+
+https://twitter-clone-nextjs-beige.vercel.app/
 
 ## What's next? How do I make an app with this?
 
